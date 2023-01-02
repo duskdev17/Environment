@@ -7,7 +7,9 @@
 			"files": [
 				"D:/Environment/Content/Maps/Environment.umap",
 				"D:/Environment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
-				"D:/Environment/Content/Maps/Environment_BuiltData.uasset"
+				"D:/Environment/Content/Maps/Environment_BuiltData.uasset",
+				"D:/Environment/Content/Maps/Environment_sharedassets/AutoMaterial_LayerInfo.uasset",
+				"D:/Environment/Content/CastleAssets/Landscape/M_Landscape.uasset"
 			]
 		}
 	]
