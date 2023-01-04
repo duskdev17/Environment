@@ -1,0 +1,6 @@
+2023/01/04-16:31:24.837 209c Creating DB D:/Environment/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/01/04-16:31:24.848 209c Reusing MANIFEST D:/Environment/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/04-17:14:21.549 4230 Level-0 table #5: started
+2023/01/04-17:14:21.778 4230 Level-0 table #5: 7478 bytes OK
+2023/01/04-17:14:21.920 4230 Delete type=0 #3
+2023/01/04-17:14:21.925 4230 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -12,7 +12,14 @@
 				"D:/Environment/Content/CastleAssets/Landscape/M_Landscape.uasset",
 				"D:/Environment/Content/CastleAssets/Meshes/SM_Mountain_Eroded_01.uasset",
 				"D:/Environment/Content/CastleAssets/Meshes/SM_Mountain_Eroded_03.uasset",
-				"D:/Environment/Content/CastleAssets/Meshes/SM_Mountain_Eroded_04.uasset"
+				"D:/Environment/Content/CastleAssets/Meshes/SM_Mountain_Eroded_04.uasset",
+				"D:/Environment/Content/Maps/EnvironmentBackup1.umap",
+				"D:/Environment/Content/CastleAssets/Materials/M_Water_Depth.uasset",
+				"D:/Environment/Content/CastleAssets/Materials/M_Water_Depth_Inst.uasset",
+				"D:/Environment/Content/Maps/Environment_sharedassets/A_LayerInfo.uasset",
+				"D:/Environment/Content/Maps/Environment_sharedassets/B_LayerInfo.uasset",
+				"D:/Environment/Content/Maps/Environment_sharedassets/C_LayerInfo.uasset",
+				"D:/Environment/Content/Maps/Environment_sharedassets/D_LayerInfo.uasset"
 			]
 		}
 	]
