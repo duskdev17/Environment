@@ -1,2 +1,3 @@
-2023/01/04-15:55:54.813 2f1c Creating DB D:/Environment/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/01/04-15:55:54.828 2f1c Reusing MANIFEST D:/Environment/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/01/04-20:54:05.002 35ec Reusing MANIFEST D:/Environment/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/01/04-20:54:05.014 35ec Recovering log #3
+2023/01/04-20:54:05.016 35ec Reusing old log D:/Environment/Saved/webcache_4430\Local Storage\leveldb/000003.log 
