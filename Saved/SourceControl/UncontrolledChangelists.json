@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Environment/Content/Maps/Environment.umap",
+				"F:/Environment/Content/Megascans/3D_Assets/Huge_Nordic_Coastal_Cliff_vefkehbva/S_Huge_Nordic_Coastal_Cliff_vefkehbva_lod0_Var1.uasset",
 				"D:/Environment/Content/Maps/Environment.umap",
 				"D:/Environment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"D:/Environment/Content/Maps/Environment_BuiltData.uasset",
